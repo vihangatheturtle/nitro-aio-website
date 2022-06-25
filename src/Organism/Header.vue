@@ -4,7 +4,7 @@
       <g-image src="~/images/full-logo.svg" immediate alt="" class="w-full" />
     </g-link>
 
-    <div class="flex w-32 items-center space-x-10">
+    <div class="flex w-32 items-center justify-end space-x-4 xl:space-x-10">
       <AtomIconTwitter
         link="https://twitter.com/Nitro_AIO"
         class="text-n-lBlue hover:text-n-mBlue"
