@@ -1,5 +1,5 @@
 <template>
-  <TemplateDefault>
+  <TemplateDefault class="">
     <div class="py-16 px-6 text-center lg:py-32">
       <h1
         class="font-n text-5xl text-white md:text-6xl xl:text-7xl 2xl:text-8xl"
